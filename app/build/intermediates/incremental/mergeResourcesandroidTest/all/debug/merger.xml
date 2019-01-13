@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/cap-one/M1/Android/AndroidGL4D/app/src/androidTest/res"/><source path="/home/cap-one/M1/Android/AndroidGL4D/app/build/generated/res/rs/androidTest/all/debug"/><source path="/home/cap-one/M1/Android/AndroidGL4D/app/build/generated/res/resValues/androidTest/all/debug"/></dataSet><dataSet config="androidTestAll"><source path="/home/cap-one/M1/Android/AndroidGL4D/app/src/androidTestAll/res"/></dataSet><mergedItems/></merger>
